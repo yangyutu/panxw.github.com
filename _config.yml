@@ -7,7 +7,8 @@ github: panxw
 author: "panxw"
 email: winfirm#163.com
 name: "Panxw's Blog"
-baseurl: /
+baseurl: "panxw.github.com"
+url: ""
 
 
 all_categories: [
